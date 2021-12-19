@@ -12,7 +12,7 @@ The Jupyter Notebook, crypto_clustering.ipynb, uploaded to this repository conta
 
 ![image](https://user-images.githubusercontent.com/85533099/146660782-1ab436c3-1cff-43a2-8b6d-1a4a9cba531d.png)
 
-![image](https://user-images.githubusercontent.com/85533099/146660470-fb1a9ab3-e48c-41b4-96f6-6cb288aa0187.png)
+![image](https://user-images.githubusercontent.com/85533099/146660818-bab59a9f-04fa-4152-9b6c-f3f82e4af86f.png)
 
 ### 3-D Scatterplot
 
